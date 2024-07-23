@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeanderMattle
+- 👋 Hi, I’m @ArtemisMattle
 - 👀 I’m interested in gameDev, physics, storytelling
 - 🌱 I’m currently learning physics
 - 💞️ I’m looking to collaborate on gameDev
